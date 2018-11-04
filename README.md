@@ -11,10 +11,10 @@ The main Model in which to build the neural networks.
 Main notebook to build code for Soar-AI.
 
 
-# Rebirther.ipynb {
+# Rebirther.ipynb 
   <img src="https://github.com/YrwynmyrDB/Mindset11/edit/master/Rebirther.png"/>
 To use in reference to the Computer Applicable Dowsing Table; Rebirther will self generate random paths onto the given chart and activate the given chart values to record data for later analysis. Because of CADTb's ability to move on so many variables, this allows for the pen to never reach a stop. forever running and ever generating truly randomized data.  
-}
+
 # CADTb
 The Computer Applicable Dowsing Table 
 
