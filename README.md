@@ -6,7 +6,7 @@ The main Repository for YrwynmyrDB.
 A Secure and collaborative envionment to analyze data.
 
 # Soar-AI
-<img src="https://raw.githubusercontent.com/YrwynmyrDB/Mindset11/master/Soar-AI.png" height="100px" width="130px"/>
+<img src="https://raw.githubusercontent.com/YrwynmyrDB/Mindset11/master/Soar-AI.png" height="300px" width="400px"/>
 The main Model in which to build the neural networks.
 
 # Soar-AI.ipynb
