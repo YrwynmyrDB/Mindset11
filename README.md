@@ -1,5 +1,5 @@
 # Mindset11
-<img src="https://raw.githubusercontent.com/YrwynmyrDB/Mindset11/master/mindset.png"  height="300px" width="300px"/>
+<img src="https://raw.githubusercontent.com/YrwynmyrDB/Mindset11/master/mindset.png"  height="300px" width="400px"/>
 The main Repository for YrwynmyrDB.
 
 # DataLab
